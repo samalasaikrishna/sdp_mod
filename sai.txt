@@ -6,6 +6,8 @@ public class Sai{
 	for(int i=0;i<s.length();i++){
 		syso(s.charAt(s.length()-i-1));
 
+	hello i am here.
+
 }	
 
 }
